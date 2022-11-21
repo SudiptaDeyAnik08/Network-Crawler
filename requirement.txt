@@ -1,0 +1,10 @@
+socket
+os
+subprocess
+nmap
+re
+scanner
+dns
+dns.resolver
+requests
+sys
